@@ -31,8 +31,8 @@ public class Shoot : MonoBehaviour
         
         Debug.Log("PEW PEW");
         _anim = GetComponent<Animator>();
-        _anim.SetBool("IsShooting", true);
+        _anim.SetBool("IsShooting", false);
         Thread.Sleep(_cooldown);
-        _anim.SetBool("isShooting", false);
+        _anim.SetBool("isShooting", true);
     }
 }
