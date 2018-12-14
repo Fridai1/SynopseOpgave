@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Code/Synopse_exported
+D:/Code/Synopse-Exported-ad
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/Level.unity
@@ -52,6 +52,8 @@ a44114bd4fa541174f78b4bb92bacb48 UnityEngine.UI.dll:UnityEngine.EventSystems.Sta
 e90403eeda069970e0b9de1533de13a6 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 2d58ca16854b99daea8c45e9c0f367b7 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 16da51d1b62ef6d4ee1849350434023b UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
+486cd95c82d8305219c352c06b776e1f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
+486cd95c82d8305219c352c06b776e1f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 53cefe5d98cadefbab750835e70b89c0 UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 486cd95c82d8305219c352c06b776e1f UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 da2091a04d360891450faf16cdf621f1 UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -184,6 +186,7 @@ bf9092984e391e854436c93547ae117f TextMeshPro-2017.3-Editor.dll:TMPro.EditorUtili
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Assets.TextMesh_Pro.Scripts.TMP_DigitValidator
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Assets.TextMesh_Pro.Scripts.TeleType
 93c79d9898c96227c3913847eb39db63 Assembly-CSharp.dll:Assets.TextMesh_Pro.Scripts.ShaderPropAnimator
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Assets.Script.Ad
 45128a4f0a0a29c8d26d8eeb78faaae2 Assembly-CSharp.dll:.Enemy
 9ecabe4a6b0b699f4890bde3b3e4b3b9 Assembly-CSharp.dll:Assets.TextMesh_Pro.Scripts.TMP_FrameRateCounter
 d6847627ba7741c18a9d5258fc293648 Assembly-CSharp.dll:Assets.TextMesh_Pro.Scripts.VertexShakeA

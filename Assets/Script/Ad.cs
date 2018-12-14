@@ -8,14 +8,9 @@ namespace Assets.Script
 
         public void ShowAd()
         {
-            if (Advertisement.IsReady())
+            if (Advertisement.IsReady("test"))
             {
                 Advertisement.Show();
-                //while (Advertisement.isShowing)
-                //{
-                //    PauseGame();
-                //}
-                //ContinueGame();
             }
         }
 

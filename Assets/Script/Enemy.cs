@@ -33,7 +33,7 @@ public class Enemy : MonoBehaviour
     {
         AddToScore();
         Destroy(Object.gameObject);
-        Debug.Log("Hit The enemy");
+        Debug.Log("Hit The enemy", _score);
 
     }
 }
